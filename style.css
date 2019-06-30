@@ -1,0 +1,27 @@
+/* CSS Document */
+
+.header  {background-color:#000033; border:solid; border-radius:10px;
+cell
+          }
+		  
+.tags   {background-color:#0066CC;
+         border:solid;
+		 border-radius:6px;
+		 }
+		 
+.tags2   {background-color:#FF0000;
+         border:solid;
+		 border-radius:6px;
+		 }
+		 
+		 
+.tags3   {background-color:#FFFF66;
+         border:solid;
+		 border-radius:13px;
+		 }
+.header1  {background-color:#000033; border:solid; border-radius:10px;
+          height:750PX;
+		  width:650PX;
+		  }
+.header1:hover {background-color:#00FF00;}
+        
